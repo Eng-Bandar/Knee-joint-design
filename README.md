@@ -1,5 +1,4 @@
 # Knee-joint-design
-Knee joint design
 
 
 The knee joint was designed using Cinema 4D software
